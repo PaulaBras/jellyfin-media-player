@@ -2,6 +2,7 @@
 // Configuration - Update this URL to match your SSO endpoint
 const SSO_AUTH_URL = 'https://jellyfin.xxx.yyy/sso/OID/start/';
 
+const test = 1;
 // Deeplink configuration
 const DEEPLINK_SCHEMES = ['jellyfin', 'jmp'];
 const DEEPLINK_SSO_ACTION = 'sso';
